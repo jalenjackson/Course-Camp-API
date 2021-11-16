@@ -8,7 +8,7 @@
   },
   "author": "jalenjackson@teamcoursecamp.com",
   "dependencies": {
-    "aws-sdk": "^2.419.0",
+    "aws-sdk": "^2.814.0",
     "bcryptjs": "^2.4.3",
     "crypto": "^1.0.1",
     "dotenv": "^6.2.0",
